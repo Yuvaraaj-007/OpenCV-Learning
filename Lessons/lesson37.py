@@ -1,0 +1,10 @@
+import cv2
+image = cv2.imread("Images/flower.jpg")
+hsv = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
+lowerblue = (35,150,50)
+upperblue = (85,255,255)
+mask = cv2.inRange(hsv, lowerblue, upperblue)
+cv2.imshow("Original image", image)
+cv2.imshow("Mask", mask)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
