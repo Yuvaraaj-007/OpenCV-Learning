@@ -45,6 +45,11 @@ This repository documents my journey of learning **Computer Vision** using **Pyt
 - Detecting faces in images
 - Drawing bounding boxes around detected faces
 
+### Hand detection
+- Mediapipe
+- Detecting hands by drawing skeletons
+- Counting fingers
+
 ## 📁 Project Structure
 
 ```
@@ -59,8 +64,7 @@ OpenCV-Learning/
 
 The goal of this repository is to build a strong foundation in Computer Vision and gradually progress to:
 
-- Live Face Detection
-- Hand Detection
+- Hand Gesture
 - Pose Estimation
 - Object Detection
 - Deep Learning with OpenCV
@@ -76,7 +80,10 @@ The goal of this repository is to build a strong foundation in Computer Vision a
 - ✅ Edge Detection
 - ✅ Contours
 - ✅ Face Detection (Images)
-- ⏳ Live Face Detection (Coming Next)
+- ✅ Face Detection (Webcamera)
+- ✅ Hand detection (Webcamera)
+- ✅ Finger counting
+- ⏳ Hand gesture (Coming Next)
 
 ## 💡 About This Repository
 
