@@ -50,6 +50,10 @@ This repository documents my journey of learning **Computer Vision** using **Pyt
 - Detecting hands by drawing skeletons
 - Counting fingers
 
+###Hand gesture
+- Detecting the volume range of the system in dB
+- Controlling the volume by mapping it to Pycaw
+
 ## 📁 Project Structure
 
 ```
@@ -83,7 +87,8 @@ The goal of this repository is to build a strong foundation in Computer Vision a
 - ✅ Face Detection (Webcamera)
 - ✅ Hand detection (Webcamera)
 - ✅ Finger counting
-- ⏳ Hand gesture (Coming Next)
+- ✅ Volume control using Hand gesture
+- ⏳ Writing using Hand gesture (Coming Next)
 
 ## 💡 About This Repository
 
