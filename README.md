@@ -53,6 +53,7 @@ This repository documents my journey of learning **Computer Vision** using **Pyt
 ###Hand gesture
 - Detecting the volume range of the system in dB
 - Controlling the volume by mapping it to Pycaw
+- Air canvas random drawing with erasing and color changing options
 
 ## 📁 Project Structure
 
@@ -68,7 +69,7 @@ OpenCV-Learning/
 
 The goal of this repository is to build a strong foundation in Computer Vision and gradually progress to:
 
-- Hand Gesture
+- Hand Gesture (Mouse control)
 - Pose Estimation
 - Object Detection
 - Deep Learning with OpenCV
