@@ -54,6 +54,7 @@ This repository documents my journey of learning **Computer Vision** using **Pyt
 - Detecting the volume range of the system in dB
 - Controlling the volume by mapping it to Pycaw
 - Air canvas random drawing with erasing and color changing options
+- Mouse detection and clicking
 
 ## 📁 Project Structure
 
@@ -89,7 +90,9 @@ The goal of this repository is to build a strong foundation in Computer Vision a
 - ✅ Hand detection (Webcamera)
 - ✅ Finger counting
 - ✅ Volume control using Hand gesture
-- ⏳ Writing using Hand gesture (Coming Next)
+- ✅ Air canvas free hand drawing using Hand gesture
+- ✅ Mouse control using Hand gesture
+- ⏳ Attendance system by face recognition (Coming Next)
 
 ## 💡 About This Repository
 
