@@ -56,6 +56,11 @@ This repository documents my journey of learning **Computer Vision** using **Pyt
 - Air canvas random drawing with erasing and color changing options
 - Mouse detection and clicking
 
+###YOLO AI-integration
+- Detecting objects by using YOLO
+- Person detection and moniotring confidence level of YOLO
+- Exam hall monitoring by phone detection
+
 ## 📁 Project Structure
 
 ```
@@ -92,7 +97,8 @@ The goal of this repository is to build a strong foundation in Computer Vision a
 - ✅ Volume control using Hand gesture
 - ✅ Air canvas free hand drawing using Hand gesture
 - ✅ Mouse control using Hand gesture
-- ⏳ Attendance system by face recognition (Coming Next)
+- ✅ Exam hall monitor
+- ⏳ AI-integration projects (Coming Next)
 
 ## 💡 About This Repository
 
