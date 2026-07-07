@@ -50,13 +50,13 @@ This repository documents my journey of learning **Computer Vision** using **Pyt
 - Detecting hands by drawing skeletons
 - Counting fingers
 
-###Hand gesture
+### Hand gesture
 - Detecting the volume range of the system in dB
 - Controlling the volume by mapping it to Pycaw
 - Air canvas random drawing with erasing and color changing options
 - Mouse detection and clicking
 
-###YOLO AI-integration
+### YOLO AI-integration
 - Detecting objects by using YOLO
 - Person detection and moniotring confidence level of YOLO
 - Exam hall monitoring by phone detection
