@@ -55,6 +55,7 @@ This repository documents my journey of learning **Computer Vision** using **Pyt
 - Controlling the volume by mapping it to Pycaw
 - Air canvas random drawing with erasing and color changing options
 - Mouse detection and clicking
+- Game (Hill climb racing) controlling using hand gestures
 
 ### YOLO AI-integration
 - Detecting objects by using YOLO
@@ -98,7 +99,9 @@ The goal of this repository is to build a strong foundation in Computer Vision a
 - ✅ Air canvas free hand drawing using Hand gesture
 - ✅ Mouse control using Hand gesture
 - ✅ Exam hall monitor
-- ⏳ AI-integration projects (Coming Next)
+- ✅ Game controlling in pc
+- ⏳ Game controls with more gestures (Coming Next)
+- ⏳ AI-integrated projects (Coming Soon)
 
 ## 💡 About This Repository
 
