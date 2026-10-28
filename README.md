@@ -62,6 +62,12 @@ This repository documents my journey of learning **Computer Vision** using **Pyt
 - Person detection and moniotring confidence level of YOLO
 - Exam hall monitoring by phone detection
 
+### Invisible cloak
+- Video capturing
+- Converting BGR to HSV
+- What is kernel?
+- bitwise operations for smooth invisibility
+
 ## 📁 Project Structure
 
 ```
@@ -100,6 +106,7 @@ The goal of this repository is to build a strong foundation in Computer Vision a
 - ✅ Mouse control using Hand gesture
 - ✅ Exam hall monitor
 - ✅ Game controlling in pc
+- ✅ Invisible cloak
 - ⏳ Game controls with more gestures (Coming Next)
 - ⏳ AI-integrated projects (Coming Soon)
 
